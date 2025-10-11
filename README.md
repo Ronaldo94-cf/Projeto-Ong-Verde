@@ -7,7 +7,7 @@
 
 A **ONG VerdeViva** é um projeto de *landing page* ou site institucional focado na apresentação de uma organização não governamental fictícia dedicada à preservação do meio ambiente e à promoção da sustentabilidade.
 
-Este projeto foi desenvolvido utilizando **HTML5** e **CSS** (o arquivo `estilo.css` correspondente) para demonstrar a estrutura básica de um site informativo, com seções dedicadas a:
+Este projeto foi desenvolvido utilizando **HTML5** 
 
 * **Sobre:** Apresentação da missão e visão da ONG.
 * **Projetos:** Destaque para as ações de reflorestamento e educação ambiental.
