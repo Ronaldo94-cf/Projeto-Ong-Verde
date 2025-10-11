@@ -28,7 +28,7 @@ Este projeto é totalmente estático (HTML/CSS) e pode ser visualizado de duas m
 
 O projeto está hospedado e acessível online via **GitHub Pages**.
 
-🔗 **[CLIQUE AQUI PARA ACESSAR A PÁGINA AO VIVO]([<LINK-DO-SEU-GITHUB-PAGES>](http://127.0.0.1:5500/index.html))**
+🔗 **[CLIQUE AQUI PARA ACESSAR A PÁGINA AO VIVO][([<LINK-DO-SEU-GITHUB-PAGES>](http://127.0.0.1:5500/index.html))**](https://ronaldo94-cf.github.io/Projeto-Ong-Verde/)
 
 *(**Atenção:** Substitua o placeholder `<LINK-DO-SEU-GITHUB-PAGES>` pelo link real após configurar o GitHub Pages!)*
 
