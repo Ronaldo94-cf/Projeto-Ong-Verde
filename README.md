@@ -38,7 +38,7 @@ A estrutura de pastas básica do projeto é a seguinte:
 ## 🛠️ Tecnologias Utilizadas
 
 * **HTML5:** Estruturação do conteúdo.
-* **CSS3:** Estilização e layout.
+
 
 ## ✍️ Autor
 
