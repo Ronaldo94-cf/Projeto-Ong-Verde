@@ -1,4 +1,3 @@
-Projeto Ong Verde - Atividade 1 - Apenas uso HTML
 # 🌿 ONG VerdeViva - Preservação e Sustentabilidade
 
 ![Capa do Projeto - Exemplo de banner ou logo da ONG](imagens/natureza.jpg)
@@ -37,6 +36,8 @@ O projeto está hospedado e acessível online via **GitHub Pages**.
 
 A estrutura de pastas básica do projeto é a seguinte:
 ## 🛠️ Tecnologias Utilizadas
+
+Projeto Ong Verde - Atividade 1 - Apenas uso HTML
 
 * **HTML5:** Estruturação do conteúdo.
 
